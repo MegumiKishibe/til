@@ -1,2 +1,2 @@
 # til
-学習用リポジトリ
+#This is 2nd contact to 学習用リポジトリ
